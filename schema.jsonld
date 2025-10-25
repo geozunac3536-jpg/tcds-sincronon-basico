@@ -1,3 +1,4 @@
+cat <<EOF > schema.jsonld
 {
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
@@ -7,8 +8,9 @@
     "name": "Genaro Carrasco Ozuna",
     "identifier": "https://orcid.org/0009-0005-6358-9910"
   },
-  "datePublished": "2025-10-25",
+  "datePublished": "$(date +%Y-%m-%d)",
   "inLanguage": "es",
   "license": "https://opensource.org/licenses/MIT",
   "keywords": ["TCDS", "Sincronón", "CGA", "coherencia", "locking", "transición de fase"]
 }
+EOF
