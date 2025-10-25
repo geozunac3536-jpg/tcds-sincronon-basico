@@ -1,16 +1,28 @@
-cat <<EOF > schema.jsonld
 {
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
-  "name": "El Sincronón como Transición de Fase Coherente",
+  "name": "Sincronón como transición de fase coherente (TCDS)",
   "author": {
     "@type": "Person",
     "name": "Genaro Carrasco Ozuna",
     "identifier": "https://orcid.org/0009-0005-6358-9910"
   },
-  "datePublished": "$(date +%Y-%m-%d)",
-  "inLanguage": "es",
+  "datePublished": "2025-10-25",
   "license": "https://opensource.org/licenses/MIT",
-  "keywords": ["TCDS", "Sincronón", "CGA", "coherencia", "locking", "transición de fase"]
+  "url": "https://github.com/geozunac3536-jpg/tcds-sincronon-basico",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://raw.githubusercontent.com/geozunac3536-jpg/tcds-sincronon-basico/main/sincronon.pdf",
+    "encodingFormat": "application/pdf",
+    "name": "sincronon.pdf"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Proyecto TCDS"
+  },
+  "keywords": [
+    "TCDS","Sincronón","Transición de fase","Campo escalar",
+    "Yukawa","Injection locking","Coherencia cuántica","Astrofísica",
+    "Σ-metrics","R(t)","LI","RMSE_SL","κΣ"
+  ]
 }
-EOF
