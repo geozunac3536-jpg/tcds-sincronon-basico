@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Sincronón como transición de fase coherente (TCDS)"
+message: "Cite este trabajo como:"
+type: report
+authors:
+  - family-names: Carrasco Ozuna
+    given-names: Genaro
+    orcid: "https://orcid.org/0009-0005-6358-9910"
+date-released: 2025-10-25
+version: "1.0.0"
+repository-code: "https://github.com/geozunac3536-jpg/tcds-sincronon-basico"
+license: MIT
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Carrasco Ozuna
+      given-names: Genaro
+  title: "Sincronón como transición de fase coherente (TCDS)"
+  year: 2025
+  url: "https://github.com/geozunac3536-jpg/tcds-sincronon-basico"
