@@ -18,3 +18,7 @@ Genaro Carrasco Ozuna · Proyecto TCDS · ORCID: [0009-0005-6358-9910](https://o
 Este repositorio se distribuye bajo la [Licencia MIT](./LICENSE). Puedes usar, modificar y compartir el contenido, siempre que se mantenga la atribución al autor original.
 
 © 2025 Genaro Carrasco Ozuna · Proyecto TCDS · ORCID: [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
+
+
+
+echo -e "\n## 🛡️ Licencia\n\nEste repositorio se distribuye bajo la [Licencia MIT](./LICENSE). Puedes usar, modificar y compartir el contenido, siempre que se mantenga la atribución al autor original.\n\n© $(date +%Y) Genaro Carrasco Ozuna · Proyecto TCDS · ORCID: https://orcid.org/0009-0005-6358-9910" >> README.md
