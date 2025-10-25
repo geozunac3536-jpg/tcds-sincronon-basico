@@ -4,32 +4,14 @@ cat <<EOF > README.md
 Este repositorio presenta la reinterpretación del Sincronón como transición de fase coherente dentro del marco TCDS y el Conjunto Granular Absoluto (CGA). Se incluye el documento formal, metadatos semánticos y una visualización directa en HTML.
 
 ## Contenido
-- \`sincronon.pdf\`: Documento principal
-- \`schema.jsonld\`: Metadatos semánticos para indexación académica
-- \`index.html\`: Visualizador embebido del PDF
+- \`sincronon.pdf\`: Documento principal  
+- \`schema.jsonld\`: Metadatos semánticos para indexación académica  
+- \`index.html\`: Visualizador embebido del PDF  
 - \`LICENSE\`: Licencia MIT
 
 ## Autor
-Genaro Carrasco Ozuna · Proyecto TCDS · ORCID: [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
-
-## 🛡️ Licencia
-
-Este repositorio se distribuye bajo la [Licencia MIT](./LICENSE). Puedes usar, modificar y compartir el contenido, siempre que se mantenga la atribución al autor original.
-
-© $(date +%Y) Genaro Carrasco Ozuna · Proyecto TCDS
-EOFcat <<EOF > README.md
-# TCDS · Sincronón como Transición de Fase Coherente
-
-Este repositorio presenta la reinterpretación del Sincronón como transición de fase coherente dentro del marco TCDS y el Conjunto Granular Absoluto (CGA). Se incluye el documento formal, metadatos semánticos y una visualización directa en HTML.
-
-## Contenido
-- \`sincronon.pdf\`: Documento principal
-- \`schema.jsonld\`: Metadatos semánticos para indexación académica
-- \`index.html\`: Visualizador embebido del PDF
-- \`LICENSE\`: Licencia MIT
-
-## Autor
-Genaro Carrasco Ozuna · Proyecto TCDS · ORCID: [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
+Genaro Carrasco Ozuna · Proyecto TCDS  
+ORCID: [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
 
 ## 🛡️ Licencia
 
