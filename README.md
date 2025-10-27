@@ -1,35 +1,18 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TBD.svg)](#) [![JSON-LD](https://img.shields.io/badge/metadata-JSON--LD-blue)](#)
-# TCDS · Sincronón como Transición de Fase Coherente
-**PDF:** [`sincronon.pdf`](./sincronon.pdf) · **Visor:** [`index.html`](./index.html)
+# Paradigma TCDS — Sincronón
 
-## Cita sugerida
-Carrasco Ozuna, G. (2025). *Sincronón como transición de fase coherente (TCDS)*. GitHub. https://github.com/geozunac3536-jpg/tcds-sincronon-basico
+Este repositorio presenta el paradigma TCDS como transición de fase coherente, desarrollado por Genaro Carrasco Ozuna.
 
-## Versión
-v1.0.0 · Fecha: 2025-10-25 · Licencia: MIT
+## 📄 Documentación
+- Documento técnico: [PDF](https://geozunac3536-jpg.github.io/tcds-sincronon-basico/)
+- Resumen ejecutivo y carta de comité: `/docs/comite.html`
+- Licencia: CC-BY 4.0
 
-## Archivos
-- `sincronon.pdf` (documento principal)  
-- `schema.jsonld` (metadatos)  
-- `index.html` (visor)
-# TCDS · Sincronón como Transición de Fase Coherente
+## 🔍 Trazabilidad
+- DOI: [10.5281/zenodo.10000000](https://doi.org/10.5281/zenodo.10000000)
+- ORCID: [Genaro Carrasco Ozuna](https://orcid.org/0009-0005-6358-9910)
 
-Este repositorio presenta la reinterpretación del Sincronón como transición de fase coherente dentro del marco TCDS y el Conjunto Granular Absoluto (CGA). Se incluye el documento formal, metadatos semánticos y una visualización directa en HTML.
+## 🛠️ Reproducibilidad
+Incluye falsificadores, KPIs, y protocolos para validación técnica y revisión interdisciplinaria.
 
-## 📁 Archivos principales
-
-- 📄 [sincronon.pdf](./sincronon.pdf): Documento principal  
-- 🧬 [schema.jsonld](./schema.jsonld): Metadatos semánticos para indexación académica  
-- 🌐 [index.html](./index.html): Visualizador embebido del PDF  
-- 🛡️ [LICENSE](./LICENSE): Licencia MIT
-
-## 👤 Autor
-
-**Genaro Carrasco Ozuna** · Proyecto TCDS  
-ORCID: [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
-
-## 🛡️ Licencia
-
-Este repositorio se distribuye bajo la [Licencia MIT](./LICENSE). Puedes usar, modificar y compartir el contenido, siempre que se mantenga la atribución al autor original.
-
-© 2025 Genaro Carrasco Ozuna · Proyecto TCDS
+## 📬 Contacto
+Genaro Carrasco Ozuna — defensor de documentación científica, reproducibilidad operativa y trazabilidad legal.
